@@ -19,4 +19,4 @@ Durante o desenvolvimento, passamos por algumas etapas importantes:
 
 🔹 Adicionamos um filtro para ficar de fácil acesso a busca.
 
-![Dashboard](imagens/dash.png)
+![Dashboard](imagens/Dash.png)
